@@ -1,3 +1,3 @@
 # Loan-Prediction
 Data Science
-Basic Loan Prediction Model Built using Scikit-Learn on Logistic Regression Classifier
+Basic Loan Prediction Model Built using Scikit-Learn on Logistic Regression Classifier.
